@@ -10,10 +10,6 @@ and enjoyment of anyone with an interest in the fascinating world of mathmetics.
 I'm interesting in mathematical problems for which that not
 need to have a unique solution. **So just have fun!**
 
-* dsf
-* fd
-* ds
-
 $$
 \mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix} 
 \mathbf{i} & \mathbf{j} & \mathbf{k} \\
