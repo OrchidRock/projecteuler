@@ -10,15 +10,7 @@ and enjoyment of anyone with an interest in the fascinating world of mathmetics.
 I'm interesting in mathematical problems for which that not
 need to have a unique solution. **So just have fun!**
 
-$$
-\mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix} 
-\mathbf{i} & \mathbf{j} & \mathbf{k} \\
-\frac{\partial X}{\partial u} &  \frac{\partial Y}{\partial u} & 0 \\
-\frac{\partial X}{\partial v} &  \frac{\partial Y}{\partial v} & 0 \\
-\end{vmatrix}
-${$tep1}{\style{visibility:hidden}{(x+1)(x+1)}}
-$$
-
+![][https://latex.codecogs.com/svg.latex?\mathbf{V}_1%20\times%20\mathbf{V}_2%20=%20\begin{vmatrix}\mathbf{i}%20&%20\mathbf{j}%20&%20\mathbf{k}%20\\\frac{\partial%20X}{\partial%20u}%20&%20\frac{\partial%20Y}{\partial%20u}%20&%200%20\\%20\frac{\partial%20X}{\partial%20v}%20&%20\frac{\partial%20Y}{\partial%20v}%20&%200%20\\\end{vmatrix}]
 
 Changelog
 -----------------

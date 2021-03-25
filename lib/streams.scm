@@ -5,7 +5,7 @@
 
 ;: streams
 ;: cons-stream must be a special form, but I don't know how to define it.
-;(define cons-stream 
+;(define cons-stream
 ;    (lambda (a b) (cons a (delay b)))) ; not working!!!
 
 ;: MIT/GNU Scheme supports a higher-level abstraction called streams
@@ -94,7 +94,7 @@
 (define (mul-stream s1 s2)
     (stream-map * s1 s2))
 
-(define factorials (cons-stream 1 (mul-stream factorials 
+(define factorials (cons-stream 1 (mul-stream factorials
                                               (integers-starting-from 2))))
 
 ;: exercise 3.55
@@ -107,7 +107,7 @@
 (define (merge-stream s1 s2)
     (cond ((stream-null? s1) s2)
           ((stream-null? s2) s1)
-          (else 
+          (else
             (let ((s1car (stream-car s1))
                   (s2car (stream-car s2)))
                 (cond ((< s1car s2car)

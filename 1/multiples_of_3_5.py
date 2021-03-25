@@ -2,13 +2,20 @@
 # The function's program is amazeing, but we don't have
 # to object to another way
 # Date: 2020.7.9
+#
+# CLI: python3 -m 1.multiples_of_3_5 <n>
+#
 
+# print('__file__={0:<35} | __name__={1:<25} | __package__={2:<25}'.format(__file__, __name__, str(__package__)))
 
-def sum_series(high, step=1, low=1):
-    n = (high - low)/step + 1
-    s = n * ((high + low) / 2)
-    print(f'sum_series ({high}, {step}, {low}):{s}')
-    return s
+# from lib import common
+from lib.common import sum_series
+
+# def sum_series(high, step=1, low=1):
+#    n = (high - low)/step + 1
+#    s = n * ((high + low) / 2)
+#    print(f'sum_series ({high}, {step}, {low}):{s}')
+#    return s
 
 
 def solve(n):
@@ -41,7 +48,7 @@ def solve2(n):
     for i in stream_enumerate_interval(1, n):
         if (i % 3 == 0) or (i % 5 == 0):
             s += i
-    
+
     return s
 
 
