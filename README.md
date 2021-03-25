@@ -10,7 +10,7 @@ and enjoyment of anyone with an interest in the fascinating world of mathmetics.
 I'm interesting in mathematical problems for which that not
 need to have a unique solution. **So just have fun!**
 
-![example](https://latex.codecogs.com/svg.latex?\mathbf{V}_1%20\times%20\mathbf{V}_2%20=%20\begin{vmatrix}\mathbf{i}%20&%20\mathbf{j}%20&%20\mathbf{k}%20\\\frac{\partial%20X}{\partial%20u}%20&%20\frac{\partial%20Y}{\partial%20u}%20&%200%20\\%20\frac{\partial%20X}{\partial%20v}%20&%20\frac{\partial%20Y}{\partial%20v}%20&%200%20\\\end{vmatrix})
+![example](https://latex.codecogs.com/svg.latex?%5Cmathbf%7BV%7D_1%20%5Ctimes%20%5Cmathbf%7BV%7D_2%20=%20%5Cbegin%7Bvmatrix%7D%5Cmathbf%7Bi%7D%20&%20%5Cmathbf%7Bj%7D%20&%20%5Cmathbf%7Bk%7D%20%5C%5C%5Cfrac%7B%5Cpartial%20X%7D%7B%5Cpartial%20u%7D%20&%20%5Cfrac%7B%5Cpartial%20Y%7D%7B%5Cpartial%20u%7D%20&%200%20%5C%5C%20%5Cfrac%7B%5Cpartial%20X%7D%7B%5Cpartial%20v%7D%20&%20%5Cfrac%7B%5Cpartial%20Y%7D%7B%5Cpartial%20v%7D%20&%200%20%5C%5C%5Cend%7Bvmatrix%7D)
 
 Changelog
 -----------------
